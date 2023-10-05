@@ -21,7 +21,7 @@ p{
 @media (min-width: 992px){
     .lg-col4 {
         float: left;
-        border: 1px solid black;
+        border: 1px solid rgb(255, 17, 108);
     }
     .lg-col4 {
         width: 33%;
@@ -31,7 +31,7 @@ p{
 @media (min-width: 768px) and (max-width: 991px){
     .md-col6 {
         float: left;
-        border: 1px solid black;
+        border: 1px solid rgb(255, 17, 108);
     }
     .md-col6 {
         width: 50%;
@@ -41,7 +41,7 @@ p{
 @media (max-width: 767px){
     .sm-col12{
         float: left;
-        border: 1px solid black;
+        border: 1px solid rgb(255, 17, 108);
         width: 100%
     }
 }
